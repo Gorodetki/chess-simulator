@@ -8,9 +8,9 @@ The artifact is stored in a project root: "chesssimulator-0.0.1-SNAPSHOT.jar"
 In order to execute this jar open command line and run following command:
 
 
-```java -jar "..\0.0.1-SNAPSHOT\chesssimulator-0.0.1-SNAPSHOT.jar" "..\moves.txt"```
+```java -jar ".\chesssimulator-0.0.1-SNAPSHOT.jar" ".\moves.txt"```
 
-Provide the absolute path for both jar and txt files.
+Provide the absolute path for both jar and txt files correspondingly to your OS.
 
 Once file started you should see the game progress in your terminal as following: 
 
